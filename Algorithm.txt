@@ -1,2 +1,25 @@
 ALGORITHM FOR ALL QUESTION
 1.Create abasic application
+declare variable and prompt the user to enter the value 
+add 5 to the stored value
+multiply the stored value by 2
+subtract 7 from the stored value 
+Print the Stored value
+2.Add three number and print the total
+declare three variable
+prompt the user to enter the value for three variable
+declare sum variable
+add the three value that we accecepted from the user vand store in the variable that we declare above
+add three variable and store in sum variable
+Print Sum
+3.declare Store variable that we used to Store the input typed by the user
+declare Sum variable and initialize to 0
+use FOR LOOP and accept input from the user and store in Store variable and add to Sum Variable
+divided the Sum variable by 10
+Print Sum      //you can refer the Pseudocode for clarification
+4.How much water run off the roof
+declare width and length
+declare and initialize number of inches of rainfall to 1
+change both width and length to inches by multiply 12
+multiplay width,length and number of inches of rainfall and divided by 231
+Print Result of division 

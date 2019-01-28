@@ -6,7 +6,7 @@ prompt the user to enter integer
 declaring integer variable like this
 int x;
 Stored the entered value by the user to the variable like
-x=uswer_enetered_value
+x=user_enetered_value
 x=x+5;
 x*2;
 x=x-7;
