@@ -52,3 +52,51 @@ result=result/231      //divide the result by 231 to get the number of gallons
 Print result
 }
 END
+
+5.Employee Pay
+START
+procedure main(){
+declare three variable like this
+/*
+int employee number,payrate,hour_worked*/
+prompt the user to enter the value for the abpve declare variable
+IF max_hour_worked >60 AND maximum_hourly rate >25.00
+PRINT error message displayed
+ELSE
+declare weekly_pay_Calculation variable// int weekly_pay_calculation
+IF max_hour>35
+weekly_pay_Calculation=hour*pay
+Print weekly_pay_Caculation
+ELSE
+weekly_pay_Calculation=hour*hour/2*pay
+Print weekly_pay_Caculation
+}
+END
+6.Customer Purchase
+procedure main(){
+declare three variable
+/*
+String name;
+int amount;
+int tax_code;
+*/
+prompt the user to enter the value for the above variable
+switch(tax_code){
+case 0:
+Print sale_tax//in this case it should be 0
+Print amount//
+Print name;
+case 1:
+Print sale_tax
+Print amount*sale_tax//
+Print name;
+case 2:
+Print sale_tax
+Print amount*sale_tax//
+Print name;
+case 3:
+Print sale_tax
+Print amount*sale_tax//
+Print name;
+}
+}
